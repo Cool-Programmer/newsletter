@@ -1,0 +1,14 @@
+.nws-widget input[type="text"], .nws-widget input[type="email"]
+{
+	padding: 0 !important;
+}
+
+.error
+{
+	color: red;
+}
+
+.success
+{
+	color: green;
+}
